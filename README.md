@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### My name is Samara and I’m currently working on creating my very first game and learning how to start coding it on the go.
+
 <!--
 **SamaraYogini/SamaraYogini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
